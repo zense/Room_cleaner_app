@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Text, View, TextInput, TouchableOpacity, Alert, Button, StyleSheet, StatusBar} from 'react-native';
+import {Actions, Router, Scene} from 'react-native-router-flux';
 
 export default class LoginForm extends Component {
   render() {
@@ -22,7 +23,7 @@ export default class LoginForm extends Component {
               secureTextEntry/>
 
         <TouchableOpacity style={styles.buttonContainer} 
-                    /*onPress={onButtonPress}*/>
+                    onPress={() => Actions.prescanner()} >
              <Text  style={styles.buttonText}>LOGIN</Text>
         </TouchableOpacity> 
     </View>

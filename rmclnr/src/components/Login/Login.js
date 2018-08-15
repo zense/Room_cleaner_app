@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Text, View, StyleSheet, Image, KeyboardAvoidingView } from 'react-native';
 import LoginForm from './LoginForm';
+import {Actions, Router, Scene} from 'react-native-router-flux';
 
 export default class Login extends React.Component {
   render() {
@@ -46,5 +47,6 @@ const styles = StyleSheet.create({
     titles : {
         display: 'flex',
         justifyContent: 'center',
+        alignItems: 'center',
     }
     })
