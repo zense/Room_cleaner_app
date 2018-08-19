@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/deepinder/Desktop/ReactApp/Room_cleaner_app/rmclnr/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/deepinder/.android/build-cache/c6d339abdc2a58f66ff821b5d033aaa30ee7480a/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/deepinder/Desktop/ReactApp/Room_cleaner_app/rmclnr/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/deepinder/.android/build-cache/c6d339abdc2a58f66ff821b5d033aaa30ee7480a/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/deepinder/Desktop/ReactApp/Room_cleaner_app/rmclnr/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/deepinder/.android/build-cache/c6d339abdc2a58f66ff821b5d033aaa30ee7480a/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/deepinder/Desktop/ReactApp/Room_cleaner_app/rmclnr/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/deepinder/.android/build-cache/c6d339abdc2a58f66ff821b5d033aaa30ee7480a/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
