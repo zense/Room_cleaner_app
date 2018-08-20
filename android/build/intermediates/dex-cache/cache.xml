@@ -3,30 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/home/deepinder/.android/build-cache/0515a2ef03f615ec012c246b40bc09648e2a1163/output/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/home/deepinder/Desktop/ReactApp/Room_cleaner_app/rmclnr/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_96d74f14a542f4095504a63cd6b281ddee9dbe3b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/deepinder/Desktop/ReactApp/Room_cleaner_app/rmclnr/node_modules/react-native-camera/android/build/intermediates/bundles/default/classes.jar"
+        jar="/home/deepinder/Desktop/ReactApp/rmclnr/node_modules/react-native-camera/android/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
         sha1="7c1a3560663cedba5be89a98671af3a5182d0985">
-        <dex dex="/home/deepinder/Desktop/ReactApp/Room_cleaner_app/rmclnr/android/app/build/intermediates/pre-dexed/debug/classes_163ef0a621236a24aaabc42713a522d8c04ca941.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/deepinder/.android/build-cache/0515a2ef03f615ec012c246b40bc09648e2a1163/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.3"
-        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
-        <dex dex="/home/deepinder/Desktop/ReactApp/Room_cleaner_app/rmclnr/android/app/build/intermediates/pre-dexed/debug/classes_499f3bc3e70ac01c2c325c841ae84337c8697cee.jar" />
+        <dex dex="/home/deepinder/Desktop/ReactApp/rmclnr/android/app/build/intermediates/pre-dexed/debug/classes_f132c6e9b82b1bfb51e4a8855efe904a6501722f.jar" />
     </item>
 
 </items>

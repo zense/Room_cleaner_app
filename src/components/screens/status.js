@@ -7,7 +7,7 @@ export default class DummyStatus extends Component
     {
         return(
             <View>
-                <Text> This page will show the rooms </Text>
+                <Text> This page will show the rooms that have already been cleaned in the hostel. </Text>
             </View>
         )
     }

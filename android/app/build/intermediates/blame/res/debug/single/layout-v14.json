@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/deepinder/Desktop/ReactApp/rmclnr/android/app/build/intermediates/res/merged/debug/layout-v14/texture_view.xml",
+        "source": "/home/deepinder/Desktop/ReactApp/rmclnr/node_modules/react-native-camera/android/build/intermediates/bundles/default/res/layout-v14/texture_view.xml"
+    },
+    {
         "merged": "/home/deepinder/Desktop/ReactApp/Room_cleaner_app/rmclnr/android/app/build/intermediates/res/merged/debug/layout-v14/texture_view.xml",
         "source": "/home/deepinder/Desktop/ReactApp/Room_cleaner_app/rmclnr/node_modules/react-native-camera/android/build/intermediates/bundles/default/res/layout-v14/texture_view.xml"
     }

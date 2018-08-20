@@ -1,13 +1,21 @@
 import React from 'react';
 import { AppRegistry, StyleSheet, Text, View } from 'react-native';
-import PreScanner from './src/components/screens/home';
-import { Router, Scene} from 'react-native-router-flux'
+import Home from './src/components/screens/home';
+import { Router, Scene, Actions} from 'react-native-router-flux'
 import Login from './src/components/Login/Login'
 import ScanScreen from './src/components/screens/qrscanner';
 import LandingView from './src/components/Login/azurelogin';
+import Tabbar from './src/components/screens/tabsscreen';
 
 export default class App extends React.Component {
-  render() {
+    onBackPress(){
+        if (Actions.currentScene === 'tabbar'){
+            return false;
+        }
+        Actions.pop()
+        return true;
+    }
+    render() {
     return (
         <Router>
 
@@ -16,11 +24,11 @@ export default class App extends React.Component {
                     key="login"
                     component={Login}
                     title="Login"
-                    initial
+                    // initial
                     />
                 <Scene
-                    key="prescanner"
-                    component={PreScanner}
+                    key="home"
+                    component={Home}
                     title="Room Cleaning App"
                     />
 
@@ -33,6 +41,12 @@ export default class App extends React.Component {
                     key="mslogin"
                     component={LandingView}
                     title="Login"
+                    />
+                <Scene
+                    key="tabbar"
+                    component={Tabbar}
+                    title="Room Cleaning App"
+                    initial
                     />
   
             </Scene>

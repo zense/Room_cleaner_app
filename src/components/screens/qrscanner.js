@@ -37,7 +37,7 @@ export default class ScanScreen extends Component {
             [
               //{text: 'Ask me later', onPress: () => console.log('Ask me later pressed')},
               {text: 'Cancel', onPress: () => Actions.scanner()},
-              {text: 'OK', onPress: () => Actions.prescanner()},
+              {text: 'OK', onPress: () => Actions.tabbar()},
             ],
             { cancelable: false }
           )
@@ -51,7 +51,7 @@ export default class ScanScreen extends Component {
         [
           //{text: 'Ask me later', onPress: () => console.log('Ask me later pressed')},
           {text: 'Cancel', onPress: () => Actions.scanner()},
-          {text: 'OK', onPress: () => Actions.prescanner()},
+          {text: 'OK', onPress: () => Actions.tabbar()},
         ],
         { cancelable: false }
       )

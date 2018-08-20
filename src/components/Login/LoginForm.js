@@ -10,20 +10,20 @@ export default class LoginForm extends Component {
                autoCapitalize="none" 
                onSubmitEditing={() => this.passwordInput.focus()} 
                autoCorrect={false} 
-               keyboardType='email-address' 
+               keyboardType='number-pad' 
                returnKeyType="next" 
-               placeholder='Email or Mobile Num' 
+               placeholder='Room Number' 
                placeholderTextColor='rgba(225,225,225,0.7)'/>
 
-        <TextInput style = {styles.input}   
+        {/* <TextInput style = {styles.input}   
               returnKeyType="go" 
               ref={(input)=> this.passwordInput = input} 
               placeholder='Password' 
               placeholderTextColor='rgba(225,225,225,0.7)' 
-              secureTextEntry/>
+              secureTextEntry/> */}
 
         <TouchableOpacity style={styles.buttonContainer} 
-                    onPress={() => Actions.prescanner()} >
+                    onPress={() => Actions.tabbar()} >
              <Text  style={styles.buttonText}>LOGIN</Text>
         </TouchableOpacity> 
     </View>

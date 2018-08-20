@@ -9,10 +9,9 @@ import {
     View,
   } from 'react-native';
 
-import {Actions, Router, Scene} from 'react-native-router-flux';
 
 
-export default class PreScanner extends React.Component{
+export default class Home extends Component{
 
     render()
     {

@@ -4,6 +4,14 @@
         "source": "/home/deepinder/Desktop/ReactApp/Room_cleaner_app/rmclnr/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/deepinder/Desktop/ReactApp/rmclnr/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/deepinder/Desktop/ReactApp/rmclnr/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/deepinder/Desktop/ReactApp/Room_cleaner_app/rmclnr/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
         "source": "/home/deepinder/Desktop/ReactApp/Room_cleaner_app/rmclnr/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     }
