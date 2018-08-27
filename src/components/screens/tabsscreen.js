@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import { Container, Header, Content, Tab, Tabs } from 'native-base';
 // import DummyHistory from './src/components/screens/history';
-import DummyStatus from './src/components/screens/status';
-import DummySettings from './src/components/screens/settings';
-import Home from './src/components/screens/home';
+import DummyStatus from './status';
+import DummySettings from './settings';
+import Home from './home';
 
 export default class Tabbar extends Component {
     render() {
