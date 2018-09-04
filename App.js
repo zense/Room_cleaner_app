@@ -8,13 +8,13 @@ import LandingView from './src/components/Login/azurelogin';
 import Tabbar from './src/components/screens/tabsscreen';
 
 export default class App extends React.Component {
-    onBackPress(){
-        if (Actions.currentScene === 'tabbar'){
-            return false;
-        }
-        Actions.pop()
-        return true;
-    }
+    // onBackPress(){
+    //     if (Actions.currentScene === 'tabbar'){
+    //         return false;
+    //     }
+    //     Actions.pop()
+    //     return true;
+    // }
     render() {
     return (
         <Router>
@@ -24,7 +24,8 @@ export default class App extends React.Component {
                     key="login"
                     component={Login}
                     title="Login"
-                    // initial
+                    hideNavBar
+                    initial
                     />
                 <Scene
                     key="home"
@@ -46,7 +47,10 @@ export default class App extends React.Component {
                     key="tabbar"
                     component={Tabbar}
                     title="Room Cleaning App"
-                    initial
+                    renderLeftButton={()=>(null)}
+                    hideBackImage
+                    hideNavBar
+                    //initial
                     />
   
             </Scene>

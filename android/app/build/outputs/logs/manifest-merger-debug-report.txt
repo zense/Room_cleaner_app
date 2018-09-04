@@ -1,33 +1,33 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:1:1-28:12
+ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:1:1-28:12
 	package
-		ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:2:5-25
-		INJECTED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:1:11-69
 	android:versionCode
-		INJECTED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.56.0] /home/deepinder/.android/build-cache/0f4a5f552d23bcd08c935b0409deefc8b4fd3103/output/AndroidManifest.xml:11:5-78
+ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /home/deepinder/.android/build-cache/5df63fac36a39aae1498f9fa54b0523c643c088b/output/AndroidManifest.xml:11:5-78
 	android:name
-		ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:5:22-75
+		ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:5:22-75
 uses-permission#android.permission.VIBRATE
-ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:6:5-65
+ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:6:5-65
 	android:name
-		ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:6:22-63
+		ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:6:22-63
 application
-ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:9:5-26:19
+ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:9:5-26:19
 MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/deepinder/.android/build-cache/d36e0cf84d028e8dfd33285c2ec638a002974e31/output/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/deepinder/.android/build-cache/dc68009851f4c818f135e0d2ca7aadac9c733bf5/output/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/deepinder/.android/build-cache/6379a5603dc28eb1ba711eb0b4986bb5278d2016/output/AndroidManifest.xml:22:5-27:19
@@ -39,7 +39,7 @@ MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home
 MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/deepinder/.android/build-cache/db83d320afd2ea4e68741de95c0563d40f934c7f/output/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/deepinder/.android/build-cache/5960dd8903506b193c5fdd317980e538790f2ef9/output/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:exifinterface:26.1.0] /home/deepinder/.android/build-cache/989e12293ae04023667f3cede9ad8dcc7fa29975/output/AndroidManifest.xml:22:5-26:19
-MERGED from [com.facebook.react:react-native:0.56.0] /home/deepinder/.android/build-cache/0f4a5f552d23bcd08c935b0409deefc8b4fd3103/output/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.56.0] /home/deepinder/.android/build-cache/5df63fac36a39aae1498f9fa54b0523c643c088b/output/AndroidManifest.xml:13:5-20
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/deepinder/.android/build-cache/dc738a7385428ea1b96fbff7573f0f639f71aa71/output/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v4:26.1.0] /home/deepinder/.android/build-cache/beb04d32de26123fd007aa337c0133d7b123c081/output/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-media-compat:26.1.0] /home/deepinder/.android/build-cache/8032882b33d31c93679efae099d27fb57adcaa22/output/AndroidManifest.xml:25:5-29:19
@@ -53,42 +53,42 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/deepinder/.android/buil
 MERGED from [com.facebook.soloader:soloader:0.3.0] /home/deepinder/.android/build-cache/f8032696182d4fbaf78720a4f2c1c072aafaf3af/output/AndroidManifest.xml:11:5-20
 MERGED from [org.webkit:android-jsc:r174650] /home/deepinder/.android/build-cache/b0335c2a0f21ace185c26b17b7bb12b49047324e/output/AndroidManifest.xml:2:3-17
 	android:label
-		ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:11:7-39
+		ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:11:7-39
 	android:allowBackup
-		ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:13:7-34
+		ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:13:7-34
 	android:icon
-		ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:12:7-41
+		ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:12:7-41
 	android:theme
-		ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:14:7-38
+		ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:14:7-38
 	android:name
-		ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:10:7-38
+		ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:10:7-38
 activity#com.rmclnr.MainActivity
-ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:15:7-24:18
+ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:15:7-24:18
 	android:label
-		ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:17:9-41
+		ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:17:9-41
 	android:windowSoftInputMode
-		ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:19:9-51
+		ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:19:9-51
 	android:configChanges
-		ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:18:9-79
+		ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:18:9-79
 	android:name
-		ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:16:9-37
+		ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:16:9-37
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:20:9-23:25
+ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:20:9-23:25
 action#android.intent.action.MAIN
-ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:21:13-65
+ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:21:13-65
 	android:name
-		ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:21:21-62
+		ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:21:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:22:13-73
+ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:22:13-73
 	android:name
-		ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:22:23-70
+		ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:22:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:25:7-84
+ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:25:7-84
 	android:name
-		ADDED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:25:17-81
+		ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:25:17-81
 uses-sdk
-INJECTED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [rmclnr:react-native-camera:unspecified] /home/deepinder/Desktop/ReactApp/rmclnr/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [rmclnr:react-native-camera:unspecified] /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/deepinder/.android/build-cache/d36e0cf84d028e8dfd33285c2ec638a002974e31/output/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/deepinder/.android/build-cache/dc68009851f4c818f135e0d2ca7aadac9c733bf5/output/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/deepinder/.android/build-cache/6379a5603dc28eb1ba711eb0b4986bb5278d2016/output/AndroidManifest.xml:20:5-44
@@ -100,7 +100,7 @@ MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home
 MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/deepinder/.android/build-cache/db83d320afd2ea4e68741de95c0563d40f934c7f/output/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/deepinder/.android/build-cache/5960dd8903506b193c5fdd317980e538790f2ef9/output/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:exifinterface:26.1.0] /home/deepinder/.android/build-cache/989e12293ae04023667f3cede9ad8dcc7fa29975/output/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.react:react-native:0.56.0] /home/deepinder/.android/build-cache/0f4a5f552d23bcd08c935b0409deefc8b4fd3103/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.56.0] /home/deepinder/.android/build-cache/5df63fac36a39aae1498f9fa54b0523c643c088b/output/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/deepinder/.android/build-cache/dc738a7385428ea1b96fbff7573f0f639f71aa71/output/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:26.1.0] /home/deepinder/.android/build-cache/beb04d32de26123fd007aa337c0133d7b123c081/output/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-media-compat:26.1.0] /home/deepinder/.android/build-cache/8032882b33d31c93679efae099d27fb57adcaa22/output/AndroidManifest.xml:21:5-23:63
@@ -122,27 +122,27 @@ MERGED from [com.facebook.soloader:soloader:0.3.0] /home/deepinder/.android/buil
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/deepinder/.android/build-cache/dc738a7385428ea1b96fbff7573f0f639f71aa71/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.CAMERA
-ADDED from [rmclnr:react-native-camera:unspecified] /home/deepinder/Desktop/ReactApp/rmclnr/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:9:5-65
+ADDED from [rmclnr:react-native-camera:unspecified] /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:9:5-65
 	android:name
-		ADDED from [rmclnr:react-native-camera:unspecified] /home/deepinder/Desktop/ReactApp/rmclnr/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:9:22-62
+		ADDED from [rmclnr:react-native-camera:unspecified] /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:9:22-62
 uses-feature#android.hardware.camera
-ADDED from [rmclnr:react-native-camera:unspecified] /home/deepinder/Desktop/ReactApp/rmclnr/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-13:36
+ADDED from [rmclnr:react-native-camera:unspecified] /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-13:36
 	android:required
-		ADDED from [rmclnr:react-native-camera:unspecified] /home/deepinder/Desktop/ReactApp/rmclnr/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:13:9-33
+		ADDED from [rmclnr:react-native-camera:unspecified] /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:13:9-33
 	android:name
-		ADDED from [rmclnr:react-native-camera:unspecified] /home/deepinder/Desktop/ReactApp/rmclnr/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:12:9-47
+		ADDED from [rmclnr:react-native-camera:unspecified] /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:12:9-47
 uses-feature#android.hardware.camera.autofocus
-ADDED from [rmclnr:react-native-camera:unspecified] /home/deepinder/Desktop/ReactApp/rmclnr/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:14:5-16:36
+ADDED from [rmclnr:react-native-camera:unspecified] /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:14:5-16:36
 	android:required
-		ADDED from [rmclnr:react-native-camera:unspecified] /home/deepinder/Desktop/ReactApp/rmclnr/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:16:9-33
+		ADDED from [rmclnr:react-native-camera:unspecified] /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:16:9-33
 	android:name
-		ADDED from [rmclnr:react-native-camera:unspecified] /home/deepinder/Desktop/ReactApp/rmclnr/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:15:9-57
+		ADDED from [rmclnr:react-native-camera:unspecified] /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:15:9-57
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/deepinder/.android/build-cache/6379a5603dc28eb1ba711eb0b4986bb5278d2016/output/AndroidManifest.xml:23:9-26:75
 	android:exported
@@ -179,8 +179,8 @@ ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/deepinder/.android/build
 	android:name
 		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/deepinder/.android/build-cache/403e481954d57aad76874234fdb4b5e4ba203e1d/output/AndroidManifest.xml:26:13-58
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /home/deepinder/Desktop/ReactApp/rmclnr/android/app/src/main/AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

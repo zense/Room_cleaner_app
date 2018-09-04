@@ -1,4 +1,4 @@
-#Sun Aug 19 22:00:34 IST 2018
-base.0=/home/deepinder/Desktop/ReactApp/rmclnr/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Sun Sep 02 19:05:32 IST 2018
+base.0=/home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/home/deepinder/Desktop/ReactApp/rmclnr/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -8,6 +8,7 @@ import {
   TouchableOpacity,
   Linking,
   Alert,
+  View,
 } from 'react-native';
 
 import QRCodeScanner from 'react-native-qrcode-scanner';
@@ -21,13 +22,15 @@ export default class ScanScreen extends Component {
       this.state = { qrscan : "" }
   }
   onSuccess(e) {
+    console.log(e)
     // Linking
     //   .openURL(e.data)
     //   .catch(err => console.error('An error occured', err));
     this.setState({qrscan: e.data});
+    console.log(this.qrscan)
     if (this.qrscan == "BH0132")
     {
-        // Record room cleaning in the database
+        console.log(this.qrscan)// Record room cleaning in the database
     }
     else
     {
@@ -58,9 +61,10 @@ export default class ScanScreen extends Component {
   }
 
   render() {
+      console.log(1)
     return (
       <QRCodeScanner
-        onRead={this.onSuccess.bind(this)}
+        onRead={(e)=>{console.log(e)}}
         topContent={
           <Text style={styles.centerText}>
             { /* Go to <Text style={styles.textBold}>wikipedia.org/wiki/QR_code</Text> on your computer and scan the QR code. */}
