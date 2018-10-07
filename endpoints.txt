@@ -1,0 +1,23 @@
+The following is the required data according to me as of now:-
+
+1) Cleaning ID (Affiliated with date and time of cleaning)
+2) Cleaning team ID (Affiliated with names/ID's of cleaning staff responsible for the cleaning)
+3) Cleaning rating (on a scale of 1 to 5)
+4) Floor number  an which the cleaning staff is that day.
+5) List of rooms having been cleaned that day. (for cleaning map)
+
+I will also need to request all the valid Cleaner ID's, so as to check if the qr code is valid. 
+Either this, or I will send you the code I scan, you run the comparison in the backend, and return me a boolean or something.
+
+
+The following is the data I will be sending to the backend server everytime a cleaning takes place:-
+
+1) Student ID data. (Including room number, roll number)
+2) The Cleaner Team ID (from the QR code scanned)
+3) The rating for the particular cleaning.
+
+You can extrapolate data like floor number from the room number.
+
+I don't know how this translates to endpoints. But I guess you can figure those out based on these requirements.
+
+--  deep-guy

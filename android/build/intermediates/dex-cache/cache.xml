@@ -25,8 +25,17 @@
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="7c1a3560663cedba5be89a98671af3a5182d0985">
+        sha1="bf5a5bc84eab73edf7b6a0ebde8d183fffc8a9b3">
         <dex dex="/home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/build/intermediates/pre-dexed/debug/classes_72a94ab1ddc4541448db5a4fa72e7b8515aaa85c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/build/intermediates/pre-dexed/debug/classes_c82877a2afbb07f7f6645df6238d8fbfa6bda127.jar" />
     </item>
     <item
         is-multidex="false"

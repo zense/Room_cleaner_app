@@ -4,12 +4,12 @@
         "source": "/home/deepinder/.android/build-cache/8032882b33d31c93679efae099d27fb57adcaa22/output/res/layout/notification_template_media_custom.xml"
     },
     {
-        "merged": "/home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/build/intermediates/res/merged/debug/layout/redbox_view.xml",
-        "source": "/home/deepinder/.android/build-cache/5df63fac36a39aae1498f9fa54b0523c643c088b/output/res/layout/redbox_view.xml"
-    },
-    {
         "merged": "/home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
         "source": "/home/deepinder/.android/build-cache/8032882b33d31c93679efae099d27fb57adcaa22/output/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/build/intermediates/res/merged/debug/layout/redbox_view.xml",
+        "source": "/home/deepinder/.android/build-cache/5df63fac36a39aae1498f9fa54b0523c643c088b/output/res/layout/redbox_view.xml"
     },
     {
         "merged": "/home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",

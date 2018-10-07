@@ -19,18 +19,26 @@ export default class ScanScreen extends Component {
 
   constructor(props) {
       super(props)
-      this.state = { qrscan : "" }
+      this.state = { qrscan: "BH132" }
   }
   onSuccess(e) {
-    console.log(e)
+    console.log(e.data);
     // Linking
     //   .openURL(e.data)
     //   .catch(err => console.error('An error occured', err));
-    this.setState({qrscan: e.data});
-    console.log(this.qrscan)
-    if (this.qrscan == "BH0132")
+    // this.setState({qrscan: e.data});
+    console.log(this.state.qrscan)
+    if (String(e.data).localeCompare(this.state.qrscan) == 0)
     {
-        console.log(this.qrscan)// Record room cleaning in the database
+        // console.log(this.state.qrscan);
+        Alert.alert(
+            'Done!',
+            'Room cleaning successfully registered!',  
+            [          
+              {text: 'OK', onPress: () => Actions.tabbar()},
+            ],
+            { cancelable: false }
+          )             // Record room cleaning in the database
     }
     else
     {
@@ -38,7 +46,7 @@ export default class ScanScreen extends Component {
             'Invalid QR code',
             'Go back and try scanning again',
             [
-              //{text: 'Ask me later', onPress: () => console.log('Ask me later pressed')},
+            //   {text: 'Ask me later', onPress: () => console.log('Ask me later pressed')},
               {text: 'Cancel', onPress: () => Actions.scanner()},
               {text: 'OK', onPress: () => Actions.tabbar()},
             ],
@@ -64,7 +72,7 @@ export default class ScanScreen extends Component {
       console.log(1)
     return (
       <QRCodeScanner
-        onRead={(e)=>{console.log(e)}}
+        onRead={(e)=>{this.onSuccess(e)}}
         topContent={
           <Text style={styles.centerText}>
             { /* Go to <Text style={styles.textBold}>wikipedia.org/wiki/QR_code</Text> on your computer and scan the QR code. */}

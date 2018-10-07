@@ -72,12 +72,12 @@
         "source": "/home/deepinder/.android/build-cache/dc738a7385428ea1b96fbff7573f0f639f71aa71/output/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/home/deepinder/.android/build-cache/dc738a7385428ea1b96fbff7573f0f639f71aa71/output/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
         "source": "/home/deepinder/.android/build-cache/dc738a7385428ea1b96fbff7573f0f639f71aa71/output/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/deepinder/.android/build-cache/dc738a7385428ea1b96fbff7573f0f639f71aa71/output/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",

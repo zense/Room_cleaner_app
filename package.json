@@ -8,14 +8,17 @@
   },
   "dependencies": {
     "babel-preset-react-native": "^5.0.2",
+    "class-autobind": "^0.1.4",
     "lodash": "^4.17.10",
     "native-base": "^2.7.2",
     "react": "^16.4.1",
     "react-native": "^0.56.0",
     "react-native-azure-ad": "^0.2.4",
-    "react-native-camera": "^1.2.0",
+    "react-native-camera": "git+https://git@github.com/deep-guy/react-native-camera",
     "react-native-qrcode-scanner": "^1.0.1",
     "react-native-router-flux": "^4.0.1",
+    "react-native-stars-rating": "^0.1.7",
+    "react-native-vector-icons": "^5.0.0",
     "react-navigation": "^2.11.2"
   },
   "devDependencies": {

@@ -3,17 +3,24 @@ import { Text, View, TextInput, TouchableOpacity, Alert, Button, StyleSheet, Sta
 import {Actions, Router, Scene} from 'react-native-router-flux';
 
 export default class LoginForm extends Component {
-  render() {
-    return (
-      <View style={styles.container}>
-        <TextInput style = {styles.input} 
+    constructor(props)
+    {
+        super(props);
+        this.state = {roomNo: ""};
+    }
+
+    render() {
+        return (
+            <View style={styles.container}>
+            <TextInput style = {styles.input} 
                autoCapitalize="none" 
-               onSubmitEditing={() => this.passwordInput.focus()} 
+               onSubmitEditing={(e) =>this.setState({roomNo : e.data})} 
                autoCorrect={false} 
                keyboardType='number-pad' 
                returnKeyType="next" 
                placeholder='Room Number' 
-               placeholderTextColor='rgba(225,225,225,0.7)'/>
+               placeholderTextColor='rgba(225,225,225,0.7)' />
+            {console.log(this.state.roomNo)}
 
         {/* <TextInput style = {styles.input}   
               returnKeyType="go" 
@@ -22,13 +29,14 @@ export default class LoginForm extends Component {
               placeholderTextColor='rgba(225,225,225,0.7)' 
               secureTextEntry/> */}
 
-        <TouchableOpacity style={styles.buttonContainer} 
+            <TouchableOpacity style={styles.buttonContainer} 
                     onPress={() => Actions.tabbar()} >
-             <Text  style={styles.buttonText}>LOGIN</Text>
-        </TouchableOpacity> 
-    </View>
-    )
-}
+                 <Text  style={styles.buttonText}>LOGIN</Text>
+            </TouchableOpacity> 
+            </View>
+        )
+
+    }
 }
 
 const styles = StyleSheet.create({

@@ -88,6 +88,7 @@ ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app
 		ADDED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml:25:17-81
 uses-sdk
 INJECTED from /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [rmclnr:react-native-vector-icons:unspecified] /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
 MERGED from [rmclnr:react-native-camera:unspecified] /home/deepinder/Desktop/Room_Cleaner_App/Room_cleaner_app/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/deepinder/.android/build-cache/d36e0cf84d028e8dfd33285c2ec638a002974e31/output/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/deepinder/.android/build-cache/dc68009851f4c818f135e0d2ca7aadac9c733bf5/output/AndroidManifest.xml:5:5-44
