@@ -7,7 +7,7 @@ export default class DummySettings extends Component
     {
         return(
             <View>
-                <Text> This page will show the possible user settings. </Text>
+                
             </View>
         )
     }

@@ -21,7 +21,7 @@ export default class DummyHistory extends Component
                     renderItem ={({item}) =><View>
                         <Text>{item.key}</Text>
                         <Stars
-                            isActive={true}
+                            isActive={false}
                             rateMax={5}
                             isHalfStarEnabled={false}
                             onStarPress={(rating) => console.log(rating)}

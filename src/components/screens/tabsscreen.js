@@ -15,24 +15,24 @@ export default class Tabbar extends Component {
         return true;
     }
     render() {
-      return (
+        return (
         <Container>
-          <Header hasTabs />
-          <Tabs>
-            <Tab heading="Home">
-              <Home />
-            </Tab>
-            <Tab heading="Status">
-              <DummyStatus />
-            </Tab>
-            <Tab heading="History">
-              <DummyHistory />
-            </Tab>
-            <Tab heading="Settings">
-              <DummySettings />
-            </Tab>
-          </Tabs>
-        </Container>
-      );
+            <Header hasTabs />
+            <Tabs>
+                <Tab heading="Home">
+                    <Home />
+                </Tab>
+                <Tab heading="Status">
+                    <DummyStatus />
+                </Tab>
+                <Tab heading="History">
+                    <DummyHistory />
+                </Tab>
+                <Tab heading="Settings">
+                    <DummySettings />
+                </Tab>
+            </Tabs>
+            </Container>
+        );
+        }
     }
-  }
