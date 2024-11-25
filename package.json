@@ -9,7 +9,7 @@
   "dependencies": {
     "babel-preset-react-native": "^5.0.2",
     "class-autobind": "^0.1.4",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.13",
     "native-base": "^2.7.2",
     "react": "^16.4.1",
     "react-native": "^0.56.0",
